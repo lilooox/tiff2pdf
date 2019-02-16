@@ -8,3 +8,12 @@ D:\Software Development\c#\Tiff2PDF\Tiff2PDF\obj\Debug\Tiff2PDF.pdb
 D:\Software Development\c#\Tiff2PDF\Tiff2PDF\bin\Debug\Tiff2PDF.exe.config
 D:\Software Development\c#\Tiff2PDF\Tiff2PDF\bin\Debug\Tiff2PDF.exe
 D:\Software Development\c#\Tiff2PDF\Tiff2PDF\bin\Debug\Tiff2PDF.pdb
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\bin\Debug\Tiff2PDF.exe.config
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\bin\Debug\Tiff2PDF.exe
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\bin\Debug\Tiff2PDF.pdb
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\obj\Debug\Tiff2PDF.mainForm.resources
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\obj\Debug\Tiff2PDF.Properties.Resources.resources
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\obj\Debug\Tiff2PDF.csproj.GenerateResource.cache
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\obj\Debug\Tiff2PDF.csproj.CoreCompileInputs.cache
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\obj\Debug\Tiff2PDF.exe
+D:\github\tiff2pdf\Tiff2Pdf\Tiff2PDF\obj\Debug\Tiff2PDF.pdb
